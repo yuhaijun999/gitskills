@@ -1,0 +1,3 @@
+[submodule "third_partty/learngit"]
+	path = third_partty/learngit
+	url = git@github.com:yuhaijun999/learngit.git
